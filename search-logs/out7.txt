@@ -1,0 +1,6 @@
+=== QUERY: created:>2026-01-01+topic:ai+stars:>300 ===
+total 0
+=== QUERY: created:>2026-01-01+ai+tutor+OR+learn+OR+teach+stars:>50 ===
+total 0
+=== QUERY: created:>2026-06-01+llm+web+app+stars:>100 ===
+total 0

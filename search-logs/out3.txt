@@ -1,0 +1,36 @@
+=== QUERY: steel+man+argument ===
+total 5
+     5 | jamesfoster12/effective-winner                   | None         | 2022-03-28 | None | The Effective Soul-Winner by Charles C. Cook (1861-19??) When Paul was writing the second lette
+     4 | AkshayYohannan/effective-winner                  | None         | 2022-03-23 | None | When Paul was writing the second letter to Timothy, he summed up the practical purpose of Scrip
+     1 | Mr-Faizan-Asim/Contrarium                        | None         | 2026-09-07 | TypeScript | Contrarium is an AI-powered belief analysis tool that extracts beliefs from your reading, visua
+     0 | SreeNaresh1/ThesisDefender                       | MIT          | 2026-06-12 | TypeScript | An adversarial reasoning agent built for the Microsoft Agents League Hackathon. Paste any claim
+     0 | maybedivyansh/Perspective-Bridge                 | None         | 2026-01-04 | JavaScript | Echo-Chamber Breaker is a browser tool that analyzes any news article you paste and finds the s
+=== QUERY: debate+app+llm ===
+total 34
+     9 | richer-richard/socratic-council                  | Apache-2.0   | 2026-10-18 | Rust | Local-first desktop app: 16 AI agents from 8 LLM providers debate any topic — with live argumen
+     3 | romain-girardi-eng/EleutherIA                    | CC-BY-4.0    | 2026-10-05 | Python | AI-powered scholarly platform for ancient debates on free will, fate & moral responsibility (6t
+     2 | ilyafainberg/TheCouncil                          | GPL-3.0      | 2026-07-22 | C# | A Teams-style desktop app where multiple LLMs (and you) debate a problem until they agree on th
+     2 | kvsdileep/model_council_v2                       | None         | 2026-05-10 | TypeScript | Model Council — local multi-LLM debate app. 4 council models (Sonnet 4.6, GPT-5, Gemini 3.1 Pro
+     1 | R-Sai-Chirag/Debate-Agent                        | None         | 2025-10-02 | Python | An App where two LLm's debate with each other.
+     1 | mindattic/ThinkTank                              | None         | 2026-10-21 | C# | Blazor Server web app that seats Claude, ChatGPT, Gemini and DeepSeek at one table to debate yo
+     1 | humammoin09-blip/Legal-Debate-Agent              | None         | 2026-10-07 | Python | Autonomous multi-agent debate app built with LangGraph & Streamlit. Features multi-provider LLM
+=== QUERY: critical+thinking+trainer+ai ===
+total 6
+     0 | Ramya-Ramadoss/AI-Debate-Coach-Presentation-Analysis | MIT          | 2026-08-05 | Python | A debate coach A public speaking coach A presentation evaluator A critical thinking trainer An 
+     0 | cf071608-pixel/Rhetoriq                          | None         | 2026-04-27 | HTML | AI Debate Trainer is an interactive app that helps users improve critical thinking and communic
+     0 | JohnStuartRutledge/compassion-ai                 | Apache-2.0   | 2023-06-10 | None | Accumulating an AI alignment dataset that attempts, to the extent that its possible, to train a
+     0 | GulamRosul/-Sharp-AI-                            | None         | 2026-10-20 | Dart | An AI-powered debate & communication trainer built with Flutter and GetX. Sharpen your critical
+     0 | CodeWithEugene/MIL-Compass                       | MIT          | 2026-08-16 | HTML | An AI-powered, gamified mobile and web platform that acts as a "Waze for Information." Instead 
+     0 | EYOHopt/SOCRASTICA-TIT-6.0                       | None         | 2026-08-21 | None | Socrastica is an IDE/AI mentor, which is a spec first learning approach that trains the critica
+=== QUERY: adversarial+premortem ===
+total 5
+     1 | b1rdmania/premotion                              | None         | 2026-09-18 | JavaScript | Adversarial premortem for UK litigation. Multi-model multi-agent pipeline.
+     1 | ogiberstein/claude-thinking-skills               | MIT          | 2026-08-18 | None | Adversarial-review and structured-thinking skills for Claude Code: premortem, paranoid-review, 
+     0 | dinaf2026-web/premortem-pro                      | MIT          | 2026-06-14 | None | Blunt adversarial premortem skill for Claude — assume it already failed, find the cause of deat
+     0 | wsc0796/structured-vibe-coding                   | NOASSERTION  | 2026-08-15 | Python | AI-assisted software engineering orchestrator. Risk-graded workflow (L0-L4), adversarial review
+     0 | b1rdmania/pre-motion                             | Apache-2.0   | 2026-06-11 | None | Adversarial premortem for England & Wales civil litigation — a Claude Skill. Builds the stronge
+=== QUERY: cognitive+bias+checker+ai ===
+total 0
+=== QUERY: ai+usage+awareness+critical ===
+total 1
+     4 | Cashcoin123/Cashcoin123                          | None         | 2026-10-05 | None | # Application card: GitHub Copilot Chat  Learn how to use GitHub Copilot Chat responsibly by un

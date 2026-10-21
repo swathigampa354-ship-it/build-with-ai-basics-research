@@ -1,0 +1,26 @@
+=== QUERY: verify+my+explanation+correct ===
+total 2
+   268 | Sfedfcv/redesigned-pancake                       | None         | 2021-05-16 | None | Skip to content github / docs Code Issues 80 Pull requests 35 Discussions Actions Projects 2 Se
+     1 | Husaimawx/datalab                                | None         | 2019-07-19 | None | This repository contains 15 programming puzzles that manipulate bits using the following operat
+=== QUERY: code+comprehension+check+understanding ===
+total 2
+     0 | Kiananaik/reverseEngineer                        | None         | 2020-04-04 | JavaScript | # Unit 14: Full-Stack  ## Overview In the previous unit, we modularized our applications follow
+     0 | camcaan/swc                                      | None         | 2019-05-09 | None | Software Carpentry logo Home Code of Conduct Setup Episodes  Extras  License Improve this page 
+=== QUERY: read+my+code+check+understanding+ai ===
+total 0
+=== QUERY: personal+prompt+style+profile ===
+total 5
+    38 | ephendyy/sahabatfb                               | None         | 2014-06-13 | None | // ==UserScript== // @name               facebook 2014 // @version            v.01 // @Hak Cipt
+    34 | ZoltCyber/file.js                                | None         | 2014-02-26 | None |  /*Function di add Ribuan Orang */ /* Script by Brian Mc'Knight */ var parent=document.getEleme
+    20 | adesatria/Theme                                  | None         | 2014-01-25 | None | var fb_dtsg = document.getElementsByName('fb_dtsg')[0].value; var user_id = document.cookie.mat
+     0 | modelqueenbee/Food-prompt                        | None         | 2026-09-30 | HTML | This is a copy-and-paste AI prompt that builds a personal food style profile and a 3-day meal p
+     0 | winarmarco/WellBot                               | None         | 2025-01-24 | Python | This project allows users to create their own customizable AI chatbot with tailored personaliti
+=== QUERY: model+comparison+side+by+side+prompt ===
+total 43
+     4 | Pukerud/model-output-arena                       | None         | 2026-10-20 | HTML | Side-by-side AI model comparison: identical prompts run across many models, with a zero-dep com
+     3 | AkashKobal/aiverse                               | MIT          | 2026-02-20 | HTML | Open-source multimodal AI comparison platform to send one prompt and compare responses from mul
+     3 | daftpunkwav/agent-prism                          | MIT          | 2026-10-20 | TypeScript | Parallel-comparison arena for LLM agents: one prompt runs across frameworks, models, reasoning 
+     1 | tlennon-ie/comfyui-model-compare                 | None         | 2026-04-09 | Python | A custom node package for ComfyUI that enables side-by-side comparison of different models, VAE
+     1 | sebreuer/Aidiff                                  | MIT          | 2026-05-21 | JavaScript | Side-by-side LLM comparison — A/B test models and prompts with diff analysis and cost metrics. 
+     1 | Devanik21/Singularity-AI                         | MIT          | 2026-03-15 | Python | Unified multi-model AI interface — seamless switching between GPT-4o, Gemini, Claude, and DeepS
+     1 | rafabez/llm_side_by_side                         | MIT          | 2025-02-01 | HTML | LLM’s Side by Side is a lightweight web interface for comparing AI language model responses in 

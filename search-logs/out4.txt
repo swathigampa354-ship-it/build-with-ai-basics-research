@@ -1,0 +1,26 @@
+=== QUERY: interactive+explain+visual+ai+tutorial ===
+total 0
+=== QUERY: ai+onboarding+tutorial+generator ===
+total 0
+=== QUERY: simulate+conversation+language+practice+ai ===
+total 2
+   130 | shreyasharma04/HealthChatbot                     | None         | 2022-02-21 | Python | 🤖 HealthCare ChatBot Major -1 (4th year - 7th semester)  Health Care Chat-Bot is a Healthcare D
+     4 | Cashcoin123/Cashcoin123                          | None         | 2026-10-05 | None | # Application card: GitHub Copilot Chat  Learn how to use GitHub Copilot Chat responsibly by un
+=== QUERY: ai+writing+feedback+loop ===
+total 8
+    12 | cedrusdang/NovelForger                           | MIT          | 2025-04-21 | Jupyter Notebook | NovelForger uses Gemini (1.5/2.0) with LangGraph to build a modular AI fiction writer. It guide
+     1 | huajun598-alt/EssayMate                          | MIT          | 2026-07-14 | Python | An AI-powered English writing coach that helps students improve through feedback and learning l
+     1 | harry-sketch/Agentic-Content-Refiner             | None         | 2026-10-20 | TypeScript | An AI-powered writing agent that uses reflection and iterative refinement to improve generated 
+     0 | buwenge/morning-paper                            | MIT          | 2026-09-23 | Python | Autonomous AI morning-briefing pipeline: headless LLM research/writing/archiving + reader feedb
+     0 | Beat1ngHeart/novel-writing-toolkit               | None         | 2026-07-04 | None | Claude Code Custom Skills: AI-Assisted Web Novel Writing (7 Golden Rules + Anti-AI Detection + 
+     0 | PreetiTamana/ai-blog-writing-team                | None         | 2026-08-14 | Python | A multi-agent AI blog writing system built with LangGraph and Ollama, where Writer, Editor, and
+     0 | Jo-vm/AI-Based-Automated-Exam-Evaluation-System  | None         | 2026-05-22 | Jupyter Notebook | AI-powered Automated Essay Scoring (AES) & Automated Essay Revising (AER) system using Open-Sou
+=== QUERY: practice+feedback+instant+ai+coach ===
+total 59
+    21 | AR-Nova-Technologies/IELTSCoachSystem            | None         | 2026-06-22 | JavaScript | IELTS Coach is an AI-powered web application that helps students prepare for the IELTS exam thr
+    18 | geniusuraj/IntervuAi                             | None         | 2023-09-19 | TypeScript |  IntervuAi is your AI-powered interview coach. Practice job interviews, get instant feedback, a
+    14 | spelcaster/raulf-the-recruiter                   | MIT          | 2026-07-04 | Python | Voice-based AI interview coach — feed it any job description in your language, practice in a fu
+     4 | AyushmanGupta21/MockPitch                        | None         | 2025-12-14 | None | Wish you could get a practice round before the big interview? 😅 MockPitch AI is your personal t
+     1 | srinivas-malempati/interviewwithsarah            | None         | 2026-05-24 | HTML | AI mock interview coach — practice real interview questions with instant feedback powered by Cl
+     1 | kapilsarkar/INTERVIEW-COACH                      | None         | 2026-07-26 | JavaScript | AI Interview Coach, an AI-powered platform that helps developers practice technical interviews 
+     1 | DvbyDt/Vaak-Siddhi                               | None         | 2026-05-26 | JavaScript | AI-powered Sanskrit pronunciation coach for Bhagavad Gita. Practice recitation, get instant fee

@@ -1,0 +1,30 @@
+=== QUERY: ai+web+app+beautiful+ui+nextjs+2026 ===
+total 0
+=== QUERY: topic:ai-education+stars:>100 ===
+total 0
+=== QUERY: topic:prompt-engineering+stars:>50 ===
+total 0
+=== QUERY: ai+learning+game+web ===
+total 121
+   134 | austintackaberry/stocks                          | MIT          | 2022-12-08 | JavaScript | machine learning web app game where the user competes against the AI in picking stocks
+    81 | sanusanth/c-basic-programs                       | None         | 2021-07-24 | None | What is C#? C# is pronounced "C-Sharp".  It is an object-oriented programming language created 
+    41 | hiteshsuthar01/OK-                               | None         | 2022-04-23 | None | <html lang="en-US"><head><script type="text/javascript" async="" src="https://script.4dex.io/lo
+     7 | ashwinpn/Advanced-Python                         | None         | 2020-03-04 | Jupyter Notebook | Python for Machine Learning/AI/DS, Game Theory and Convex Optimization using Python, Managing D
+     5 | roshnikumari-21/KnightMare                       | None         | 2025-06-17 | JavaScript | KnightMare is a web-based chess application built using the MERN stack, integrated with the pow
+     3 | foundryside-dev/keisei                           | MIT          | 2026-10-10 | Python | A Deep Reinforcement Learning project demonstrating AI's power to create AI, aimed at mastering
+     2 | michaelfedell/album-ai-flask                     | None         | 2022-12-08 | HTML | Web app to serve predictions and guessing game for the album-ai deep learning project
+     2 | Kandesfx/GoGame                                  | MIT          | 2025-12-24 | Python | This is a web-based online Go game project, featuring AI gameplay using integrated machine lear
+     2 | RuchilParkar/Awesome-Developer-Learning-Roadmaps | MIT          | 2026-06-25 | None | A curated collection of the best developer learning roadmaps for programming languages, web dev
+     2 | 7heHanS/horse-run-game                           | MIT          | 2026-03-12 | Python | A strategic web-based board game 'Horse Run'. Features an adjustable AI opponent powered by bot
+=== QUERY: gamified+learning+web+app+ai ===
+total 27
+     2 | ahammadshawki8/Srabon                            | NOASSERTION  | 2025-06-16 | CSS | An inclusive, gamified learning web app for secondary schoolers that personalizes science educa
+     1 | Lart101/signademy                                | None         | 2026-03-12 | TypeScript | Signademy is a modern web app that makes learning American Sign Language (ASL) easy, interactiv
+     1 | Ionfinisher/languageninja                        | None         | 2024-11-25 | TypeScript | Language Ninja is an AI-powered web app designed to make language learning exciting and effecti
+     1 | sarayugithub06/SpeakEasy                         | None         | 2025-09-14 | JavaScript | 🗣️ SpeakEasy — An AI-powered voice tutor web app to help users improve English communication, g
+     1 | Juweria86/skillXchange                           | None         | 2025-05-25 | TypeScript | A full-stack web app that enables users to exchange skills through peer-to-peer teaching and le
+     1 | tejasnayak25/manjari                             | None         | 2025-11-02 | JavaScript | Manjari is a progressive web app which aims to provide language education to anyone in a gamifi
+     0 | theone4ever/code-quest                           | None         | 2026-06-15 | JavaScript | A gamified, offline web app for learning Python and AI.
+     0 | cthhhhhh/Alpha-Decode                            | None         | 2026-05-06 | TypeScript | Gamified web app for learning Gen Alpha slang - daily drops, learning paths, dictionary, streak
+     0 | Yuvansh-Shah/jainquest-web                       | None         | 2026-10-12 | TypeScript | Gamified web app for learning Jain philosophy — Next.js, Firebase, AI chat via a Cloudflare Wor
+     0 | Baher427/multiply-hero                           | None         | 2026-05-11 | TypeScript | 🎮 MultiplyHero - A gamified web app for children (ages 5-12) to learn multiplication tables wit

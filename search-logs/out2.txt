@@ -1,0 +1,57 @@
+=== QUERY: ai+literacy+assessment+quiz ===
+total 0
+=== QUERY: llm+judge+rubric+evaluation ===
+total 141
+    76 | Calibre-Labs/reforge-ai-evals                    | MIT          | 2026-10-19 | HTML | Open-source AI evals toolkit: skills that guide AI coding agents to write eval rubrics, eval da
+    62 | delip/autorubric                                 | NOASSERTION  | 2026-09-27 | Python | A Python library encapsulating best practices for rubric-based evaluation of LLM/VLM outputs us
+    53 | deshwalmahesh/PHUDGE                             | None         | 2024-07-10 | Jupyter Notebook | Official repo for the paper PHUDGE: Phi-3 as Scalable Judge. Evaluate your LLMs with or without
+    20 | OpenHands/critic-rubrics                         | None         | 2026-08-03 | Python | Official repo for paper "A Rubric-Supervised Critic from Sparse Real-World Outcomes". Type-safe
+    15 | secemp9/rubrify                                  | MIT          | 2026-06-20 | Python | Rubric compiler and judge engine for LLM evaluation
+     8 | alphaparkinc/genpark-automated-llm-judge-feedback-evaluator-skill | None         | 2026-09-03 | Python | Multi-criteria automated LLM judge scoring engine & rubric evaluator (Braintrust)
+     8 | Alpha-Park/genpark-automated-llm-judge-feedback-evaluator-skill | None         | 2026-09-03 | Python | Multi-criteria automated LLM judge scoring engine & rubric evaluator (Braintrust)
+     6 | gnkbhuvan/ai-engineering-gates                   | None         | 2026-06-28 | Python | Four AI engineering skills that gate your agent before it builds. Evaluated with deterministic 
+=== QUERY: agent+skills+SKILL.md ===
+total 3780
+ 18597 | microsoft/SkillOpt                               | MIT          | 2026-10-18 | Python | SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM 
+  3927 | gadievron/raptor                                 | NOASSERTION  | 2026-10-20 | Python | Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using
+  3282 | bergside/awesome-design-skills                   | MIT          | 2026-06-28 | None | List of 67 awesome DESIGN.md and SKILL.md design skill files for agentic tools like Claude Desi
+  3137 | microsoft/skills                                 | MIT          | 2026-10-20 | TypeScript | Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents
+  3082 | ciembor/agent-rules-books                        | MIT          | 2026-09-10 | None | AGENTS.md rules / skills for AI coding agents: Codex, Cursor & Claude Code. Inspired by Clean C
+  2201 | skalesapp/skales                                 | NOASSERTION  | 2026-10-19 | None | Personal AI agent for macOS, Windows, Linux, Android & iOS. Set a goal, it works alone: coding 
+  1994 | gamedev-skills/awesome-gamedev-agent-skills      | Apache-2.0   | 2026-10-09 | Python | 74 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy,
+  1361 | michaelshimeles/skills                           | None         | 2026-10-19 | Python | Agent skills and an AGENTS.md workflow template — isolate in worktrees, build to a service laye
+=== QUERY: claude+code+skill+education ===
+total 28
+    30 | vanderbilt-data-science/knowledge-spaces         | MIT          | 2026-02-13 | Python | AI-powered Knowledge Space Theory for adaptive education. 10 Claude Code skills implementing th
+    19 | htlin222/cps-skills                              | None         | 2026-10-05 | Python | Claude Code skill for multi-persona Bayesian diagnostic reasoning using NEJM Clinical Problem-S
+     8 | Jellypod-Inc/school-skills                       | MIT          | 2026-04-15 | JavaScript | Classroom-ready Claude Code skills for education — lesson plans, Socratic tutoring, rubrics, st
+     5 | matheusallvarenga/claude-code-skills             | None         | 2026-03-16 | Python | Collection of reusable Claude Code Skills and MCPs for productivity, education, and development
+     5 | AI-Business-Tools/claude-code                    | MIT          | 2026-09-25 | Python | Claude Code skills for business and education: Beamer slide generation, knowledge management, A
+     5 | vosslab/vosslab-skills                           | MIT          | 2026-10-21 | Python | Reusable workflow skills for refactoring plans, code review, repository maintenance, and educat
+     2 | seanmcww/uk-english-lesson-planning              | Apache-2.0   | 2026-07-15 | Python | England KS3/KS4 English lesson-planning skill for Claude Code, grounded in the DfE AI-in-Educat
+     1 | 0dot77/medialab-stack                            | MIT          | 2026-03-31 | Go Template | Claude Code skill pack for media art creation, research, and education
+=== QUERY: decision+journal+ai ===
+total 115
+    94 | Aryia-Behroziuan/neurons                         | None         | 2023-11-15 | None | An ANN is a model based on a collection of connected units or nodes called "artificial neurons"
+    74 | Aryia-Behroziuan/References                      | None         | 2022-09-02 | None |  Poole, Mackworth & Goebel 1998, p. 1.  Russell & Norvig 2003, p. 55.  Definition of AI as the 
+    19 | shravan-swagwalapm/shipstack                     | MIT          | 2026-03-26 | Shell | Knowledge OS for AI-assisted development. Memory, past mistakes, decision records, session jour
+    13 | ma-pony/cryptotrader-ai                          | MIT          | 2026-09-10 | Python | 加密货币 AI 自动交易与回测系统 · LangGraph 多代理辩论 + 硬性风控 + 决策日志 | AI-powered crypto trading & backtest with L
+     4 | ronniross/ml-visual-engine                       | MIT          | 2026-05-11 | Jupyter Notebook | A machine learning dataset with concepts, code, journaling, and full prototypes for deep learni
+     3 | robbyczgw-cla/hermes-agent-chronicle             | MIT          | 2026-05-02 | Python | AI-perspective journaling for Hermes Agent — capture experiences, quotes, curiosities, decision
+     3 | bojansandhaus/jev-decisions-hermes               | MIT          | 2026-10-09 | Python | Jev Decisions Plugin for Hermes (and other AI Agents): tool risk reviews, human approval recomm
+     3 | sattva2020/aif-ext-implementation-notes          | MIT          | 2026-10-05 | JavaScript | AI Factory extension: append-only decision journal for /aif-implement (markdown canon + auto HT
+=== QUERY: devils+advocate+argument+ai ===
+total 3
+     4 | dungnotnull/devils-advocate-agent                | None         | 2026-06-04 | Python | ⚔️ AI-powered Devil's Advocate that stress-tests ideas, exposes logical flaws, detects fallacie
+     0 | istiaque0603-code/devils-advocate-agent          | None         | 2026-09-05 | Python | An AI agent that challenges your arguments, plans, or pitches by playing devil's advocate
+     0 | Mokshitavp1/Devil-s_Advocate                     | None         | 2026-08-14 | TypeScript | Devil's Advocate is an adversarial AI debate partner built to relentlessly challenge your assum
+=== QUERY: learning+path+generator+ai ===
+total 224
+     7 | sizwinz/SkillWise                                | MIT          | 2026-10-20 | Python | SkillWise is an AI-powered learning path generator that transforms your resume into a personali
+     6 | saad2134/shiksha-disha                           | MIT          | 2026-10-17 | TypeScript | 🎓 ShikshaDisha: Design & development of an AI-powered learning path generator, Vocational Pathw
+     6 | achuajays/Project-Navigator                      | None         | 2025-02-10 | Python | Project Navigator is an AI-powered project idea generator that helps learners create personaliz
+     4 | dhruvdankhara/roadmap-ai                         | None         | 2025-08-02 | TypeScript | AI-powered learning roadmap generator with interactive visualizations and contextual chat mento
+     3 | Sreevarshini-140/learning-path-generator         | None         | 2026-04-05 | Python | AI Learning Path Generator built using Python and Streamlit. Generates personalized learning ro
+     2 | Amanmishra005/Learning-Path-Generator-AI         | None         | 2026-05-04 | Python | AI based learning path generator.
+     2 | ShouryaDewansh/Roadmapr                          | MIT          | 2025-04-07 | Python | AI-Powered Learning Path Generator
+     2 | sarweshwargoud/SkillWeave-AI                     | None         | 2026-08-03 | JavaScript | AI-powered learning path and YouTube playlist generator

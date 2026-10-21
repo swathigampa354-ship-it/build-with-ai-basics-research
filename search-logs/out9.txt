@@ -1,0 +1,33 @@
+=== QUERY: learn+by+doing+interactive+exercise+ai ===
+total 3
+    41 | hiteshsuthar01/OK-                               | None         | 2022-04-23 | None | <html lang="en-US"><head><script type="text/javascript" async="" src="https://script.4dex.io/lo
+     4 | Cashcoin123/Cashcoin123                          | None         | 2026-10-05 | None | # Application card: GitHub Copilot Chat  Learn how to use GitHub Copilot Chat responsibly by un
+     0 | micclawd/nutanix-bootcamp                        | None         | 2026-07-05 | TypeScript | Interactive Nutanix bootcamp — learn by doing. 21 lessons from networking fundamentals through 
+=== QUERY: ai+worksheet+generator+student ===
+total 4
+     1 | KhushalYadav535/SheetMate                        | None         | 2026-08-18 | TypeScript | An AI-powered worksheet generator and adaptive study helper for school students. Automatically 
+     0 | Utkarshvr/NCERTSheets-showcase                   | None         | 2026-08-28 | None | NCERTSHEETS AI - Worksheet Generator for Students & Teachers
+     0 | ai-worksheetpro/aiworksheetpro                   | None         | 2025-10-31 | None | AI Worksheet Generator helps teachers, students, and parents instantly create and download cust
+     0 | mehaksharma2949/Abhyaas                          | None         | 2025-11-23 | TypeScript | Abhyaas is an AI-powered active learning ecosystem built using the MERN stack and OpenAI multim
+=== QUERY: hint+without+answer+tutor ===
+total 8
+     1 | foyez/42-nav-ai-agent                            | None         | 2026-04-15 | Python | Socratic AI tutor for 42 Heilbronn students. Answers Norm and project rule questions from local
+     0 | ADiTyaRaj8969/Hint-Tutor                         | None         | 2026-10-03 | Python | AI-powered math tutor that provides step-by-step hints and feedback without directly revealing 
+     0 | ItzPnav/Hintify                                  | None         | 2026-09-20 | TypeScript | Hintify is a full-stack intelligent tutoring web app where teachers upload PDF question sets an
+     0 | VincentNinIA/Compass                             | NOASSERTION  | 2026-07-21 | TypeScript | An AI geometry tutor combining ChatGPT and GeoGebra to observe students’ constructions, detect 
+     0 | Saurabh-110/LeetCode-AI-Tutor                    | None         | 2025-09-25 | JavaScript | A Chrome extension that acts as an AI tutor for LeetCode, providing conceptual hints and intera
+     0 | shrey0411abes/intervue-agentic-ai-tutor          | None         | 2026-09-14 | TypeScript | Autonomous AI assignment reviewer and Socratic tutor that verifies student work, adapts hints b
+     0 | prekshahm6/Hintforge                             | None         | 2026-10-03 | None | AI-powered coding tutor that turns uploaded problem sets into an interactive practice environme
+=== QUERY: error+diagnosis+learning+analytics ===
+total 1
+     1 | erfury/QUALITATIVE-ANALYSIS-OF-MACHINE-LEARNING-ALGORITHMS-USING-LIVER-DISEASE-DATASET | None         | 2021-05-02 | None | The Medical diseases analysis is emerging in the area of research. In recent years, various att
+=== QUERY: learning+analytics+misconception+detection ===
+total 4
+     0 | DharmikTokala/MindStep-AI-Learning-Coach         | None         | 2026-09-25 | Python | AI-powered learning platform with math misconception detection, progressive hints, step-by-step
+     0 | Nireeksha6/EdunexX                               | None         | 2026-05-24 | JavaScript | EduNexX is an AI-powered Adaptive Intelligent Tutoring System that transforms YouTube-based lea
+     0 | dinvictaedu23-rgb/d-invicta-math                 | None         | 2026-08-29 | JavaScript | D-INVICTA: A gamified Mathematics Learning & Assessment System for Grades 2–10. Built with Next
+     0 | Vinayakamoorthi-tech/Noviq--AI_tutor-            | None         | 2026-09-10 | TypeScript | AI Multilingual Personal Tutor is an adaptive AI learning platform that provides personalized a
+=== QUERY: ai+reading+level+adapt+learner ===
+total 2
+     0 | carlosmallett/StoryWeaver                        | None         | 2026-04-21 | TypeScript | StoryWeaver is an interactive AI-powered reading platform that creates personalized stories for
+     0 | maytrais0/DyslexicAssist-An-NLP-Powered-Reading-Support-System-for-Students-with-Dyslexia | None         | 2025-11-29 | HTML | this project proposes an AI-powered, dyslexia-friendly tutoring platform to help learners with 

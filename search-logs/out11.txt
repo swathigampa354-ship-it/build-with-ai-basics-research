@@ -1,0 +1,28 @@
+=== QUERY: spec+conformance+check+build ===
+total 3
+   165 | jettbrains/-L-                                   | GPL-3.0      | 2021-08-18 | None | W3C Strategic Highlights  September 2019  This report was prepared for the September 2019 W3C A
+     6 | VAIXLNS/VAIXLNS                                  | None         | 2026-09-02 | Python | ╔════════════════════════════════════أرى أن هذا أصبح أقرب إلى Blueprint سيادي وليس مجرد مخطط نظ
+     4 | openprose/prose-lint                             | MIT          | 2026-07-28 | Rust | Deterministic Rust linter, LSP, and WASM build for OpenProse — the Markdown language for multi-
+=== QUERY: acceptance+criteria+verify+code+ai ===
+total 8
+    11 | LeoStehlik/proof-loop                            | MIT          | 2026-09-01 | Python | Repo-local verification protocol for AI coding agents: acceptance criteria, separate verifier r
+     7 | aiswarya797/agent-audits                         | MIT          | 2026-07-08 | Python | Proof-of-done verification gate for AI coding agents with acceptance criteria, evidence reviews
+     2 | thomas-powers-jr/cadence                         | MIT          | 2026-10-20 | TypeScript | Verification layer for AI-assisted development. Agents don't get to self-certify — settle gates
+     1 | lowjieseng1810/agent-ui-loop                     | MIT          | 2026-09-04 | Python | Agent UI verification for AI coding agents — run the real browser, verify acceptance criteria, 
+     1 | LeoStehlik/brief-master                          | MIT          | 2026-05-24 | Python | Agent brief writer for AI coding workflows: turns fuzzy requests into precise briefs with accep
+     0 | dsjohal14/arbiter                                | MIT          | 2026-08-09 | Python | A falsification-first verification gate that reviews implementation plans, pins acceptance crit
+     0 | southu/ratchet-openrouter-agent                  | None         | 2026-07-27 | Python | Read-only source mirror of the ratchet openrouter agentic adapter, published so an anonymous re
+=== QUERY: prd+to+test+cases+ai+verify ===
+total 1
+     0 | kakawaa/kata                                     | MIT          | 2026-04-24 | None | 🚀 An AI-driven QA workflow toolkit built on Claude Code Skills. Codifies testing disciplines—PR
+=== QUERY: ai+verify+ai+generated+code+correctness ===
+total 14
+     4 | Cashcoin123/Cashcoin123                          | None         | 2026-10-05 | None | # Application card: GitHub Copilot Chat  Learn how to use GitHub Copilot Chat responsibly by un
+     1 | agxmbhir/Axiom                                   | None         | 2025-03-25 | Rust | a tool for mathematically proving the correctness of AI-generated code through formal verificat
+     1 | WizardGeeky/wizardpilot                          | MIT          | 2026-08-31 | TypeScript | "Don't just generate code. Engineer the solution." Fundamental Principle: AI-generated code is 
+     1 | TRahulsingh/ForgeMind                            | MIT          | 2026-09-09 | Python | AI coding agent for autonomous software engineering. Built with Python, LangGraph, Gemini, RAG 
+     1 | Boburmirzo/ai-data-transformation-code-generator | None         | 2024-09-21 | Python | This Streamlit app, powered by Toolhouse AI and OpenAI's LLM, generates Python code to transfor
+     0 | deepika-manku/VeriMind                           | None         | 2026-09-25 | TypeScript | Multi-Agent AI code verification engine for generating, testing, critiquing, correcting, and re
+     0 | AryanBhasin1/legacy_refactoring_agent            | None         | 2026-06-17 | Python | An AI-powered pipeline that automatically decomposes a legacy Python monolith into standalone F
+=== QUERY: spec+drift+build+vs+plan ===
+total 0

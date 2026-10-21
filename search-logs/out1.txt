@@ -1,0 +1,54 @@
+=== QUERY: misconception+learning ===
+total 168
+   707 | autonomousvision/tuplan_garage                   | NOASSERTION  | 2025-05-16 | Python | [CoRL'23] Parting with Misconceptions about Learning-based Vehicle Motion Planning
+    29 | jphall663/xai_misconceptions                     | CC-BY-4.0    | 2019-07-13 | Jupyter Notebook | Preprint/draft article/blog on some explainable machine learning misconceptions. WIP!
+    15 | Gayatri-Education/Gayatri-Demo                   | None         | 2026-10-15 | Python | Institutional-grade offline adaptive learning platform featuring course-independent Socratic tu
+     5 | YucongDuan/DIKWP-NietzscheLab-OS                 | Apache-2.0   | 2026-09-08 | None | a learning, teaching, and theory-development system for Nietzsche-related thought. It turns Nie
+     5 | Prova932/10-facts-about-autism-that-everyone-should-know | None         | 2018-05-31 | None | Autism means that a person develops in a different way and has problems with communication and 
+     4 | mgondan/mcclass                                  | LGPL-3.0     | 2026-07-17 | Prolog | McClass: MisConception-aware Competence Learning and Assessment Smart System
+     4 | YucongDuan/DIKWP-SishuWujing-Studio-OS           | Apache-2.0   | 2026-09-08 | None | an offline-first learning, teaching, and research system for the Four Books and Five Classics. 
+     4 | ankit9571/Communication-Skills                   | None         | 2016-07-30 | None | Communication Skills     Have you ever attempted to convey the desired information?  Maybe you 
+=== QUERY: socratic+tutor ===
+total 634
+    89 | ktaletsk/learn-codebase                          | MIT          | 2026-10-18 | None | The anti-vibe-coding skill. A Socratic tutor that teaches you codebases through questioning and
+    25 | idoforgod/Vibe-learning-AgenticWorkflow          | NOASSERTION  | 2026-03-01 | Python | Socratic AI Tutor Builder — 21-step agentic workflow for personalized education system
+    22 | deniz-miro/claude-learn-skill                    | MIT          | 2026-05-15 | None | Socratic coding tutor for vibe coders — a Claude Code skill that teaches programming through di
+    20 | llSourcell/mathvoice                             | None         | 2026-02-27 | TypeScript | MathVoice — Voice-first AI math tutor with Socratic engine, built with Next.js and Claude
+    19 | WangyiNTU/nanobot-study                          | MIT          | 2026-02-07 | None | Master AI Agent Assistant in 3 Days. A guided study plan using nanobot (~3k lines of Python) an
+    15 | Gayatri-Education/Gayatri-Demo                   | None         | 2026-10-15 | Python | Institutional-grade offline adaptive learning platform featuring course-independent Socratic tu
+     8 | Jellypod-Inc/school-skills                       | MIT          | 2026-04-15 | JavaScript | Classroom-ready Claude Code skills for education — lesson plans, Socratic tutoring, rubrics, st
+     8 | quzhi-ai/deep-learning                           | MIT          | 2026-06-06 | None | A Socratic tutor that refuses to hand you the answer — until you can prove you actually underst
+=== QUERY: spaced+repetition+ai ===
+total 1357
+   524 | ankimcp/anki-mcp-server                          | MIT          | 2026-10-11 | TypeScript | A Model Context Protocol (MCP) server that enables AI assistants to interact with Anki, the spa
+   391 | hluaguo/learn-faster-kit                         | MIT          | 2026-08-04 | Python | AI-powered learning coach with spaced repetition with Claude Code - master any knowledge faster
+   192 | artcc/freelingo                                  | AGPL-3.0     | 2026-10-20 | JavaScript | Open-source, self-hosted AI language learning platform with local or cloud LLMs, CEFR study pla
+   184 | flashcards/flashcards.github.io                  | MIT          | 2026-02-28 | HTML | An open, community-driven library of developer flashcards — powered by Flashcards.io. Contribut
+   181 | ctrlaltwill/LearnKit                             | MIT          | 2026-10-17 | TypeScript | A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with
+   100 | kirill-markin/flashcards-open-source-app         | MIT          | 2026-10-21 | TypeScript | AI-powered flashcards app built for serious daily study on iOS, MacOS, Android, and the web. Us
+    91 | ankimcp/anki-mcp-server-addon                    | NOASSERTION  | 2026-10-11 | Python | An Anki addon that implements an MCP server, enabling AI assistants to interact with Anki, the 
+    76 | huifer/Claude-Code-KnowCraft                     | MIT          | 2026-01-04 | None | AI-powered personal knowledge management system with natural language interface and spaced repe
+=== QUERY: knowledge+graph+education ===
+total 76
+   165 | jettbrains/-L-                                   | GPL-3.0      | 2021-08-18 | None | W3C Strategic Highlights  September 2019  This report was prepared for the September 2019 W3C A
+   150 | jiangnanboy/education_knowledge_graph_app        | None         | 2022-09-11 | JavaScript | Education knowledge graph(graph display, knowledge point tracking, intelligent question and ans
+    33 | garima0106/AISecKG-cybersecurity-dataset         | None         | 2023-08-04 | Jupyter Notebook |  Named entity and triple Dataset to create knowledge graphs for Cybersecurity education
+    30 | vanderbilt-data-science/knowledge-spaces         | MIT          | 2026-02-13 | Python | AI-powered Knowledge Space Theory for adaptive education. 10 Claude Code skills implementing th
+    25 | nju-websoft/CKGG                                 | None         | 2021-04-19 | Java | CKGG: A Chinese Knowledge Graph for High-School Geography Education and Beyond (ISWC 2021)
+    20 | kg-bnu/SciMKG                                    | None         | 2026-09-03 | Python | Source code of AAAI 2026 paper "SciMKG: A Multimodal Knowledge Graph for Science Education with
+    16 | chat-edu/v3                                      | MIT          | 2024-05-22 | TypeScript | Construct and query education knowledge graphs - winner of Microsoft AI Classroom hackathon
+     9 | Benjamin-KY/open-harness-atlas                   | Apache-2.0   | 2026-10-19 | Python | Interactive 3D knowledge graph of 793 open-source AI harnesses — governance, agent, evaluation,
+=== QUERY: flashcard+generator+llm ===
+total 28
+     9 | GrannyProgramming/remnote-flashcard-generator    | None         | 2025-06-23 | Python | 🧠 AI-powered flashcard generator for RemNote. Transform YAML content into optimized spaced repe
+     6 | Deepender25/FlashCard-Generator                  | None         | 2025-06-14 | Python | AI Flashcard Generator 🧠📚 Convert educational content into Q&A flashcards using LLMs (Zephyr-7B
+     2 | sidhvik17/flashquiz-ai                           | None         | 2026-10-07 | Java | AI flashcard generator - Spring Boot 3.1 + Thymeleaf + PostgreSQL, LLM generation via OpenRoute
+     1 | Kirneill/StudyBros                               | None         | 2026-07-30 | Python | AI-powered study guide generator. MCP server + web app. Transforms learning materials into flas
+     0 | RavonHart/flashcard-generator-llm                | None         | 2025-06-17 | Python | flashcard-generator-llm
+     0 | shrishivam2811/flashcard-generator               | None         | 2025-06-17 | Python |  LLM-Powered Flashcard Generator
+     0 | stefan-ulbel/FlashcardGenerator                  | None         | 2026-01-18 | Vue | LLM-Powered Adaptive Flashcard Generator
+     0 | NoelClay/obsidian-ankigen                        | Apache-2.0   | 2026-06-01 | TypeScript | Socratic Anki flashcard generator from Obsidian notes via LLM
+=== QUERY: explain+concept+simplify+llm ===
+total 2
+     0 | bazidev/feel-like-an-llm-game                    | None         | 2025-11-11 | JavaScript | Small game as a journey/guide to simplify & explain LLM concepts
+     0 | siyalkhan494-dotcom/snapsolve-ai                 | MIT          | 2026-08-06 | JavaScript | AI-powered study assistant for students using OpenRouter and Gemma-style LLMs. Helps explain co

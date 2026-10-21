@@ -1,0 +1,38 @@
+=== QUERY: feynman+technique+app ===
+total 23
+     1 | BrackListed/OmniPad                              | None         | 2026-09-30 | TypeScript | OmniPad is an all in one study app that uses real, known techniques like the Feynman Technique 
+     0 | FeynAI/FeynAI                                    | None         | 2024-12-03 | JavaScript | An app that utilises the Feynman technique to test your knowledge and help you know what you do
+     0 | EmilePW/FeynmanTechniqueOld                      | None         | 2016-08-09 | JavaScript | Web App for doing the Feynman Technique
+     0 | AdventuresInDataScience/EasyEspanol              | None         | 2026-10-01 | Kotlin | Spanish Language App inspired by the Feynman Technique
+     0 | ACED-HR2024/feynman-junior                       | None         | 2026-06-11 | TypeScript | desktop app for practicing the Feynman Technique with ollama and moonshineJS
+     0 | chevrechou/explainitback                         | None         | 2026-07-20 | TypeScript | Feynman-technique learning app — teach topics to Koda, get a comprehension scorecard
+     0 | jm19pa/Feynman-AI                                | None         | 2026-08-24 | Python | An AI studying app based off of the Feynman studying technique, built off of Google Gemini.
+=== QUERY: teach+me+back+explain+check ===
+total 4
+    27 | jojo1317/Git-quick-reference-for-beginners       | None         | 2020-05-06 | None | There are many good resources for learning Git. (Here's an excellent online book, and this is m
+    26 | Skattermuffin/this-ones-for-you-my-retalyation.-also-haha-arrow-game-lolol | None         | 2022-07-25 | CSS | According to all known laws of aviation, there is no way a bee should be able to fly. Its wings
+     2 | alinabel/alinabel_android_tutureal_              | Unlicense    | 2018-06-12 | None | Introduction  Welcome. In this tutorial I will teach you how to create a sliding layout, so it 
+     1 | alinabel/up_AliNabel                             | None         | 2018-06-12 | None | Introduction  Welcome. In this tutorial I will teach you how to create a sliding layout, so it 
+=== QUERY: chatgpt+history+analyzer ===
+total 2
+     2 | badhon252/ChatInsight                            | None         | 2026-04-06 | JavaScript | Chat Analyzer is a privacy-first web application designed to analyze ChatGPT chat history files
+     0 | arjunhaanak/Ai-Resume-analyzer                   | None         | 2026-03-14 | JavaScript | A Full-Stack AI Resume Analyzer that uses Vector Embeddings and Generative AI to provide deep r
+=== QUERY: prompt+quality+analyzer+score ===
+total 6
+     0 | EdgarOrtegaRamirez/promptlint                    | MIT          | 2026-07-29 | Python | AI prompt quality analyzer CLI tool — score, validate, and improve prompts
+     0 | gregoire1029-lgtm/Promptlens                     | None         | 2026-04-03 | HTML | AI-powered prompt analyzer, paste any prompt, get a quality score, weakness breakdown, and smar
+     0 | bhavinibadgujar/PromptSculpt-AI                  | NOASSERTION  | 2026-08-03 | TypeScript | PromptSculpt AI is an AI-powered Prompt Quality Analyzer that evaluates, scores, and improves p
+     0 | adieladaniel/PromptSense-AI                      | None         | 2026-09-19 | Python | Hybrid rule-based + transformer (DeBERTa-v3 NLI) prompt quality analyzer and optimizer for LLM 
+     0 | lavanyasalapu1-ctrl/Resume_Analyzer              | None         | 2026-08-18 | None | AI-powered resume analyzer that scores resumes against a student's target role using an 8-step 
+     0 | aadilquamri/AI-Resume-Analyzer                   | None         | 2026-07-17 | Python | AI-powered Resume Analyzer built with LLMs to evaluate resumes, generate improvement suggestion
+=== QUERY: ai+skill+assessment+diagnostic ===
+total 10
+    92 | mykpono/ultimate-seo-geo                         | MIT          | 2026-10-01 | Python | The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search opt
+     1 | kaanmete/AI-Powered-English-Level-Assesment      | None         | 2026-01-18 | JavaScript | Adaptive English Proficiency Diagnostic Engine powered by AI (Llama-3). Real-time skill assessm
+     1 | vijaysingh0022/student-platform                  | MIT          | 2026-09-28 | JavaScript | LearnX — AI-powered diagnostic assessment, skill gap analysis, personalized roadmaps, and 24/7 
+     1 | iva100/Artificial-intelligence-Machine-learning  | None         | 2021-12-20 | None | Artificial intelligence (AI) is intelligence demonstrated by machines, unlike the natural intel
+     0 | ArdaVAROL/python-mastery-ai                      | MIT          | 2026-07-29 | Python | Adaptive Python learning platform with skill mastery tracking, diagnostic assessment, personali
+     0 | dhwani746-commits/AI-Placement-Readiness-Coach   | None         | 2026-10-04 | None | AI-powered placement readiness coach with role-based skill-gap analysis, diagnostic and coding 
+     0 | UmutOZCN/Level-Assesment-AI-Diagnostic-Engine    | None         | 2026-01-18 | JavaScript | Adaptive English Proficiency Diagnostic Engine powered by AI (Llama-3). Real-time skill assessm
+=== QUERY: hiring+ai+literacy+test ===
+total 0

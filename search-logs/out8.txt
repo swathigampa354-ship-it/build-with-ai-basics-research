@@ -1,0 +1,43 @@
+=== QUERY: requirements+traceability+ai ===
+total 261
+   344 | responsibleai/ASSERT                             | MIT          | 2026-10-20 | Python | Requirement-driven evaluation harness for AI agents and LLM applications. Generate behavior-spe
+    98 | guolola/SoftJL                                   | Apache-2.0   | 2026-10-21 | TypeScript | Turn requirements into UML diagrams, test cases and editable Word specs—with traceability. Self
+    54 | Agile-V/agile_v_skills                           | CC-BY-SA-4.0 | 2026-10-05 | Python | Agent Skills for traceable requirements, independent verification, human approval gates, and au
+    35 | franklinxkk/ai-delivery-spec                     | MIT          | 2026-10-11 | Python | Requirement management Skill for one human-readable, AI-coding-ready baseline: intake, clarific
+    34 | rtmx-ai/rtmx                                     | Apache-2.0   | 2026-10-19 | Go | Requirements traceability matrix package for closed-loop product development with agentic AI to
+    29 | 40PlusCoder/build-standard-project               | MIT          | 2026-10-05 | Python | Turn an approved product design, PRD, prototype, design system, or architecture brief into an A
+    25 | start-fish/riskradar-tracemap-ai                 | MIT          | 2026-06-23 | Shell | AI code review quality gates for PRs, coverage gap detection, and requirements traceability ski
+=== QUERY: check+code+against+requirements+spec ===
+total 3
+   165 | jettbrains/-L-                                   | GPL-3.0      | 2021-08-18 | None | W3C Strategic Highlights  September 2019  This report was prepared for the September 2019 W3C A
+     4 | Cashcoin123/Cashcoin123                          | None         | 2026-10-05 | None | # Application card: GitHub Copilot Chat  Learn how to use GitHub Copilot Chat responsibly by un
+     0 | dspachos/specmine                                | MIT          | 2026-09-12 | JavaScript | ⛏️ Mine your codebase's requirements into a citation-backed .specs/ knowledge base — AI agents 
+=== QUERY: screenshot+ui+critique+ai ===
+total 4
+     2 | qinxi1477/ai-content-critic-skill                | MIT          | 2026-05-22 | None | AI Content Critic is a cross-agent skill for Claude Code and Codex that critiques AI-generated 
+     0 | rahulde0/critique-agent-system                   | None         | 2026-06-14 | Python | Multimodal AI Design Analysis Suite — multi-agent LangGraph tool that critiques UI/UX designs f
+     0 | ton-anywhere/bruna-mvp                           | None         | 2026-06-30 | HTML | Bruna UI: High-performance AI design critique tool. Get instant UX/UI audits from screenshots p
+     0 | tomd0627/ui-roaster                              | MIT          | 2026-09-20 | TypeScript | An AI-powered UI critique tool. Drop a screenshot — get a brutally honest, structured roast of 
+=== QUERY: changelog+from+commits+ai ===
+total 59
+    51 | yumiaura/aicommit                                | MIT          | 2026-07-27 | Python | AI commit messages from your local LLM - Ollama / llama-cpp backed, offline, Conventional Commi
+    16 | evilsocket/changelog                             | NOASSERTION  | 2025-03-31 | None | An AI agent that generates nice changelogs from git commits.
+     8 | warengonzaga/magic-release                       | GPL-3.0      | 2026-02-03 | TypeScript | Instantly generate beautiful AI-powered changelogs from your Git commits—no setup, just magicr.
+     2 | debug949/patchwork                               | MIT          | 2026-06-12 | TypeScript | AI-powered changelog generator from GitHub commit history. OAuth 2.0, Groq LLaMA 3.3, public em
+     1 | SRX9/logtile                                     | None         | 2026-04-26 | TypeScript | AI Changelog Generator from PRs and Commits
+     1 | Hidemint/smart-changelog-ai                      | None         | 2026-06-21 | Python | AI-powered changelog generator with Ollama support. Automatically creates beautiful CHANGELOG.m
+     1 | jdmurray21/changelog_bot                         | MIT          | 2025-06-12 | JavaScript | an ai-powered tool to help devs quickly generate changelogs from git commits.
+=== QUERY: docs+drift+detect+ai ===
+total 7
+    24 | reem-sab/doc-sentinel-ai                         | None         | 2026-10-18 | Python | CI/CD-integrated AI tool that detects drift between your code and your docs, scores documentati
+     1 | sjarmak/livedocs                                 | Apache-2.0   | 2026-07-25 | Go | Keeps docs in sync with code: extracts structural claims (exports, signatures, dependencies) fr
+     0 | saidibnerradi603/driftguard-ai                   | None         | 2026-07-13 | Python | AI-powered documentation drift detection engine — detects stale docs from code changes in real-
+     0 | Kshitijmishradev/DriftGuard                      | None         | 2026-08-21 | TypeScript | Detects drift between OpenAPI specifications and API documentation, reports violations on pull 
+     0 | beyhangl/pactrun                                 | MIT          | 2026-10-19 | Python | Agent Behavioral Contracts — Design-by-Contract for AI agents. Declare what agents must/must no
+     0 | ritikkalal07/DriftGuard                          | None         | 2026-05-17 | JavaScript | DriftGuard is an open-source AI platform that detects documentation drift, analyzes git diffs, 
+     0 | T-Moody/tm-agent-harness                         | None         | 2026-08-25 | None | <!doctype html> <html lang="en"> <head> <meta charset="utf-8"> <meta name="viewport" content="w
+=== QUERY: readme+quality+analyzer+ai ===
+total 3
+     1 | Ayaindeed/Smart_code_tagger                      | MIT          | 2025-10-31 | Python | AI-powered codebase analyzer and tag suggester. The tool scans source code, README files, comme
+     0 | SanjanaGA-CSE/RepoGenAI                          | None         | 2026-08-30 | Python | AI-powered GitHub repository analyzer that uses RAG, FAISS, Gemini embeddings, and Groq LLMs to
+     0 | prashant9850/GIT-ANALYSER                        | None         | 2026-03-24 | TypeScript | An AI-based GitHub repository analyzer that evaluates projects by analyzing code quality, compl
